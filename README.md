@@ -1,2 +1,2 @@
 # kickstarter
-Prediction of kickstarter using machine learning
+Prediction of kickstarter using machine learning with Spark
